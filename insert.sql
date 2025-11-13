@@ -1,0 +1,6 @@
+CREATE TABLE produtos(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+nome TEXT,
+preco REAl
+estoque INTEGER
+)
